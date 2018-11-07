@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Program1_4_DataSorting", "Program1_4_DataSorting\Program1_4_DataSorting.vcxproj", "{E51829C5-1C83-42D3-B5CD-C946A406E9B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E51829C5-1C83-42D3-B5CD-C946A406E9B1}.Debug|x64.ActiveCfg = Debug|x64
+		{E51829C5-1C83-42D3-B5CD-C946A406E9B1}.Debug|x64.Build.0 = Debug|x64
+		{E51829C5-1C83-42D3-B5CD-C946A406E9B1}.Debug|x86.ActiveCfg = Debug|Win32
+		{E51829C5-1C83-42D3-B5CD-C946A406E9B1}.Debug|x86.Build.0 = Debug|Win32
+		{E51829C5-1C83-42D3-B5CD-C946A406E9B1}.Release|x64.ActiveCfg = Release|x64
+		{E51829C5-1C83-42D3-B5CD-C946A406E9B1}.Release|x64.Build.0 = Release|x64
+		{E51829C5-1C83-42D3-B5CD-C946A406E9B1}.Release|x86.ActiveCfg = Release|Win32
+		{E51829C5-1C83-42D3-B5CD-C946A406E9B1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA689EBB-56ED-4947-99BA-A22AA6AC4587}
+	EndGlobalSection
+EndGlobal
